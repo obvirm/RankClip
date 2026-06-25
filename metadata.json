@@ -1,0 +1,6 @@
+{
+  "name": "Shorts Video Overlay Editor",
+  "description": "Short-form vertical video editor to add, drag, and animate captions, ranking stickers, emojis, and custom overlays for YouTube Shorts, TikTok, and Instagram Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
